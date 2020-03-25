@@ -1,0 +1,40 @@
+.footerContainer {
+  font-size: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Amatic SC", sans-serif;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px gray;
+  color: #467f8c;
+  margin-bottom: 2%;
+}
+#lotus {
+  height: 10vh;
+  width: 7vw;
+}
+
+@media screen and (max-width: 768px) {
+  .footerContainer {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 375px) {
+  .footerContainer {
+    display: flex;
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 375px) {
+  #lotus {
+    height: 7vh;
+    width: 10vw;
+  }
+}
+@media screen and (max-width: 768px) {
+  #lotus {
+    height: 6vh;
+    width: 12vw;
+  }
+}

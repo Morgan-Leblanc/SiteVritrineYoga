@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css?family=Amatic+SC");
+@import url("https://fonts.googleapis.com/css?family=Just+Another+Hand|Open+Sans+Condensed:300");
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+
+.parcoursContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 99.1vw;
+  height: auto;
+}
+
+.parcours {
+  margin-top: 5%;
+  font-size: 25px;
+  font-family: "Lato", sans-serif;
+  font-weight: bold;
+  width: 80vw;
+  margin-bottom: 5%;
+  background-color: whitesmoke;
+  opacity: 60%;
+  border-radius: 20px;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+.containerButton {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 70vw;
+
+}
+.buttonMoreInfos {
+    background-color:#467f8c;
+    color: white;
+    font-size: 30px;;
+    padding: 3vh;
+    border: none;
+    margin-bottom: 3%;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;;
+    text-decoration: none;
+    font-family: "Amatic SC", sans-serif;
+    font-weight: bold;
+}
+.buttonMoreInfos:focus{
+    outline:  none;
+}

@@ -1,0 +1,46 @@
+.leaflet-container {
+  width: 60vw;
+  height: 50vh;
+  z-index: 5;
+  border-radius: 5px;
+  -webkit-box-shadow: 10px 10px 5px 0px grey;
+  -moz-box-shadow: 10px 10px 5px 0px grey;
+  box-shadow: 10px 10px 5px 0px grey;
+  animation: fadein 4s;
+  -moz-animation: fadein 4s; /* Firefox */
+  -webkit-animation: fadein 4s; /* Safari et Chrome */
+  -o-animation: fadein 4s; /* Opera */
+}
+
+.contactContainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.contactForm {
+  margin-top: 5%;
+  font-size: 25px;
+  font-family: "Lato", sans-serif;
+  font-weight: bold;
+  width: 80vw;
+  margin-bottom: 5%;
+  background-image: url(../../assets/pictures/bambou.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 70%;
+  border-radius: 20px;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  text-decoration: none;
+}
+
+#iconForm{
+    margin-top: 2%;
+    margin-right: 2%;
+}
+#emailLink{
+  text-decoration: none;
+  color: purple;
+}

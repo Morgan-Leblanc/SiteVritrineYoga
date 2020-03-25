@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css?family=Amatic+SC");
+@import url("https://fonts.googleapis.com/css?family=Just+Another+Hand|Open+Sans+Condensed:300");
+
+.navbarContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2%;
+  height: 4vh;
+  background: linear-gradient(
+    270deg,
+    white,
+    #7d6e60,
+    #b3aca3,
+    #46392f,
+    white,
+    #467f8c,
+    #659fa6,
+    whitesmoke
+  );
+  background-size: 600% 600%;
+  -webkit-animation: BackGroundAnimation 30s ease infinite;
+  -moz-animation: BackGroundAnimation 30s ease infinite;
+  animation: BackGroundAnimation 30s ease infinite;
+}
+
+.link {
+  text-decoration: none !important;
+  font-size: 3.2em;
+  font-family: "Amatic SC", sans-serif;
+  font-weight: bold;
+  color: white !important;
+  margin: 3%;
+}
+
+.link:hover {
+  background: #b2c8d7;
+  cursor: pointer;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+
+@media screen and (max-width: 768px) {
+  .link {
+    font-size: 40px;
+  }
+}
+@media screen and (max-width: 375px) {
+  .link {
+    font-size: 20px;
+  }
+}
+
+/*Animation Background */
+@-webkit-keyframes BackGroundAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@-moz-keyframes BackGroundAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes BackGroundAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
