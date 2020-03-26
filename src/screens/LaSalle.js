@@ -59,7 +59,7 @@ const LaSalle = () => {
           {" "}
           <p>
             Du matériel est à disposition sur place afin de pouvoir aménager vos
-            postures (sangles, briques en liège, zafus, galettes de genoux à
+            postures <br></br>(sangles, briques en liège, zafus, galettes de genoux à
             mémoire de forme…){" "}
           </p>
           <p>
