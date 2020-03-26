@@ -86,22 +86,23 @@
     top: 0;
     margin-top: 2%;
     z-index: 10;
-    width: auto;
     justify-content: space-around;
   }
   .buttonMoreInfos {
+    height: 100px;
     width: auto;
     font-size: 10px;
     border-radius: 0px;
   }
 }
-@media screen and (max-width: 377px) {
+@media screen and (max-width: 322px) {
   .containerButton {
     position: sticky;
     top: 0;
     margin-top: 2%;
     z-index: 10;
-    width: auto;
+    width: 90vw;
+    height: auto;
     justify-content: space-around;
   }
   .buttonMoreInfos {
