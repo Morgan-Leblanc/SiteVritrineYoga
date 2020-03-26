@@ -103,8 +103,8 @@ const Parcours = () => {
               En 2015 elle obtient la certification « YOGA » DE GASQUET®{" "}
               <br></br>
               Méthode APOR (Approche posturo respiratoire) élaborée par
-              Bernadette de Gasquet, médecin, professeur de yoga et fondatrice
-              de<br></br> L’Institut DE GASQUET® à Paris.
+              Bernadette de Gasquet, médecin, professeur de yoga <br></br>et fondatrice
+              de L’Institut DE GASQUET® à Paris.
             </p>
 
             <p>
