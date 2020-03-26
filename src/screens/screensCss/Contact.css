@@ -52,6 +52,7 @@
 #findUs {
   font-size: 25px;
   opacity: 0.45;
+  color:#3B3733;
 }
 
 @media screen and (max-width: 375px) {
