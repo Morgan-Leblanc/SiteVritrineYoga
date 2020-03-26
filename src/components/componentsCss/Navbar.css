@@ -49,6 +49,11 @@
     font-size: 25px;
   }
 }
+@media screen and (max-width: 613px) {
+  .navbarContainer  {
+    height: 5vh
+  }
+}
 @media screen and (max-width: 375px) {
   .link {
     font-size: 15px;
