@@ -1,12 +1,16 @@
 @import url("https://fonts.googleapis.com/css?family=Amatic+SC");
 @import url("https://fonts.googleapis.com/css?family=Just+Another+Hand|Open+Sans+Condensed:300");
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
 
 .navbarContainer {
+  position: sticky;
+  top:0;
+  z-index: 7;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
   padding: 2%;
-  height: 4vh;
+  height: 2vh;
   background: linear-gradient(
     270deg,
     white,

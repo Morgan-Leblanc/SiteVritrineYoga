@@ -1,5 +1,4 @@
 import React from "react";
-
 import "./screensCss/Cours_Tarifs.css";
 
 const Cours_Tarifs = () => {
