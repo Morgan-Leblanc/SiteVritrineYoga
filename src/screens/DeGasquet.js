@@ -39,7 +39,7 @@ const DeGasquet = () => {
         plusieurs livres à succès dont « yoga sans dégâts » « périnée arrêtons
         le massacre », « abdominaux arrêtez le massacre » …
       </p>
-      <img src={deGasquet} alt="DeGasquetCertificationYoga" />
+      <img id="degasquet" src={deGasquet} alt="DeGasquetCertificationYoga" />
     </div>
   );
 };

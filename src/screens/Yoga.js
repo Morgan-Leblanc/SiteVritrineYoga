@@ -25,14 +25,13 @@ const Yoga = () => {
         les diverses morphologies, pathologies, fragilités et niveaux de
         souplesse.{" "}
       </p>
-      <p>Une séance de pratique douce est proposée le lundi après midi. </p>
-      <p>
+      <p>Une séance de pratique douce est proposée le lundi après midi.<br></br>
         La durée en est réduite (1H30 au lieu de 2H00), les postures sont moins
         exigeantes et tenues moins longtemps.{" "}
       </p>
       <p>
-        A la fin de chaque séance un temps de relaxation au sol ou d’assise
-        méditative est proposé.
+        A la fin de chaque séance un temps de relaxation au sol ou de
+        méditation est proposé.
       </p>{" "}
     </div>
   );

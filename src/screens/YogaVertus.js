@@ -27,7 +27,7 @@ const YogaVertus = () => {
       <h1>LES BIENFAITS DE LA PRATIQUE DU YOGA :</h1>
       <p>
         Redonner de la longueur et de la tonicité à ses muscles, renforcer ses
-        articulations et retrouver une nouvelle amplitude articulaire, de
+        articulations et retrouver une nouvelle amplitude articulaire,<br></br> de
         l’aisance et de la fluidité dans les gestes du quotidien.{" "}
       </p>
       <p>
@@ -52,7 +52,7 @@ const YogaVertus = () => {
       </p>
       <p>
         Apprendre à se recentrer et à endiguer le flot permanent et envahissant
-        des pensées. Le yoga est un chemin de pacification intérieure,
+        des pensées.<br></br> Le yoga est un chemin de pacification intérieure,
         d’apaisement du mental et de l’émotionnel, une voie d’unification.
       </p>
       <p>

@@ -63,7 +63,7 @@ const Parcours = () => {
             <p>
               En 1993 elle obtient son diplôme d’enseignante de yoga à l’issue
               de 3 années de formation au sein de l’Ecole Internationale du Yoga
-              Traditionnel (EIDYT Paris)fondée par Shri Mahesh Ghatradyal,
+              Traditionnel (EIDYT Paris) fondée par Shri Mahesh Ghatradyal,
               maître indien , également fondateur en 1968 de la<br></br>{" "}
               Fédération Française de Hatha Yoga.
             </p>
@@ -88,13 +88,13 @@ const Parcours = () => {
             <p>
               De 2005 à 2011 celui d’Annemarie Hebeisen, enseignante dans la
               lignée Dürckheim et proche collaboratrice de Blandine Calais
-              Germain auteure de plusieurs ouvrages dont « Anatomie pour le yoga
+              Germain <br></br> auteure de plusieurs ouvrages dont « Anatomie pour le yoga
               »
             </p>
 
             <p>
               Depuis 2010 elle suit plus particulièrement l’enseignement
-              d’Isabelle Morin-Larbey formatrice dans la lignée de Madras
+              d’Isabelle Morin-Larbey formatrice dans la lignée de Madras <br></br>
               (Enseignement de Krishnamacharya, yogi du sud de l’Inde et de son
               fils de TKV Desikachar)
             </p>
@@ -109,8 +109,8 @@ const Parcours = () => {
 
             <p>
               Elle pratique également le Tai Chi Chuan depuis 1990 et étudie
-              l’Art de la calligraphie extrême orientale depuis 2008.
-              (calligraphie chinoise et peinture à l’encre ou sumie)
+              l’Art de la calligraphie extrême orientale depuis 2008
+              <br></br>(calligraphie chinoise et peinture à l’encre ou sumie)
             </p>
           </p>
           <div className="liensExternes">
