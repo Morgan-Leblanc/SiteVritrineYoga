@@ -1,6 +1,6 @@
 .coursTarifsContainer {
   width: 99.1vw;
-  height: 130vh;
+  height: auto;
   display: flex;
   font-size: 25px;
   font-weight: bold;

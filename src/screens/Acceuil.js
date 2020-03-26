@@ -12,7 +12,7 @@ const Acceuil = () => {
             "On ne peut aller au delà de soi-même. On ne peut que progresser à
             l'intérieur de soi."
           </h1>
-          <h1 style={{ fontSize: 50, fontWeight: "bold" }}>Carl Gustav Jung</h1>
+          <h1 style={{ fontSize: 40, fontWeight: "bold" }}>Carl Gustav Jung</h1>
         </div>
       </div>
     </div>
