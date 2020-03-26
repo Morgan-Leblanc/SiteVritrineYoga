@@ -22,7 +22,7 @@ const Yoga = () => {
         Les postures sont proposées par degré d’exigence et l’aide d’accessoires
         (sangles, briques de liège, coussins, galettes de genoux à mémoire de
         forme…) va permetre d’aménager la pratique de chacun et de composer avec
-        les diverses morphologies, pathologies, fragilités et niveaux de
+        les diverses morphologies, pathologies,<br></br> fragilités et niveaux de
         souplesse.{" "}
       </p>
       <p>Une séance de pratique douce est proposée le lundi après midi.<br></br>

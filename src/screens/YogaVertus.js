@@ -5,7 +5,6 @@ const YogaVertus = () => {
   return (
     <div className="multipleDesignContainer">
       {" "}
-      <h1 title=" les vertus du yoga">DU CORPS VERS L’ESPRIT</h1>
       <p>
         Sagesse millénaire issue de la Tradition de l’Inde, Art de vivre juste,
         chemin de « bien Être » et d’éveil, le yoga est une Voie royale pour
@@ -24,7 +23,7 @@ const YogaVertus = () => {
         « Celui qui déplace la montagne, c’est celui qui commence par enlever
         les petites pierres. » <br></br>Confucius
       </p>
-      <h1>LES BIENFAITS DE LA PRATIQUE DU YOGA :</h1>
+      <h1 title=" les vertus du yoga"> DU CORPS VERS L’ESPRIT, LES BIENFAITS DE LA PRATIQUE DU YOGA :</h1>
       <p>
         Redonner de la longueur et de la tonicité à ses muscles, renforcer ses
         articulations et retrouver une nouvelle amplitude articulaire,<br></br> de
