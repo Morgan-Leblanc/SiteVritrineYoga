@@ -4,7 +4,7 @@
 
 .navbarContainer {
   position: sticky;
-  top:0;
+  top: 0;
   z-index: 7;
   display: flex;
   align-items: center;
@@ -30,10 +30,10 @@
 
 .link {
   text-decoration: none !important;
-  font-size: 3.2em;
+  font-size: 2em;
   font-family: "Amatic SC", sans-serif;
   font-weight: bold;
-  color: white !important;
+  color: rgb(85, 81, 81);
   margin: 3%;
 }
 
@@ -46,12 +46,12 @@
 
 @media screen and (max-width: 768px) {
   .link {
-    font-size: 40px;
+    font-size: 25px;
   }
 }
 @media screen and (max-width: 375px) {
   .link {
-    font-size: 20px;
+    font-size: 15px;
   }
 }
 

@@ -3,9 +3,8 @@ import "../screens/screensCss/YogGasVer.css";
 
 const Yoga = () => {
   return (
-    <div
-      className="multipleDesignContainer">
-          <h1>Le Hatha-Yoga</h1>
+    <div className="multipleDesignContainer">
+      <h1 title= "le hatha-yoga">Le Hatha-Yoga</h1>
       <p>
         Bien qu’issu de la Tradition du Hatha Yoga, le yoga enseigné au sein de
         notre association est adapté aux occidentaux que nous sommes et revisité

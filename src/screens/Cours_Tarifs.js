@@ -5,22 +5,25 @@ const Cours_Tarifs = () => {
   return (
     <div className="coursTarifsContainer">
       <div className="horairesContainer">
-        <h1>Horaires:</h1>
+        <h1 title=" horaires des cours de yoga">Horaires:</h1>
         <div className="horaires"></div>
         <p>
-          <h2>Lundi</h2> 15H30 - 17H00 (Pratique douce) & 17h30 - 19h30
+          <h2 title="cours de yoga le lundi">Lundi</h2> 15H30 - 17H00 (Pratique
+          douce) & 17h30 - 19h30
         </p>
         <p>
-          <h2>Mardi</h2>
+          <h2 title="cours de yoga le mardi">Mardi</h2>
           9h30 - 11h30 & 18h30 - 20h30
         </p>
         <p>
-          <h2>Jeudi</h2>
+          <h2 title="cours de yoga le jeudi">Jeudi</h2>
           9h30 - 11h30
-        </p>
+        </p>{" "}
+        <br></br>
+        <p>Il n’y a pas de cours durant les congés scolaires.</p>
       </div>
       <div className="tarifsContainer">
-        <h1>Tarifs:</h1>
+        <h1 title="tarifs yoga">Tarifs:</h1>
         <p>
           • La séance d’essai est offerte <br></br>(appeler au préalable pour
           connaître les créneaux disponibles){" "}
@@ -57,15 +60,11 @@ const Cours_Tarifs = () => {
         <p>
           Les séances non effectuées ne sont pas remboursées.<br></br>
           Néanmoins, en cas d'absence à un cours, il vous est possible de le
-          rattraper sur un autre horaire et ce jusqu’à la fin de l’année en cours,
-          dans la limite des places disponibles.
+          rattraper sur un autre horaire et ce jusqu’à la fin de l’année en
+          cours, dans la limite des places disponibles.
         </p>
         <p></p>
-        <p>
-          Il est possible de s’inscrire en cours d’année en fonction des places
-          disponibles.
-        </p>
-        <p>Il n’y a pas de cours durant les congés scolaires.</p>
+        <p>Il est possible de s’inscrire en cours d’année.</p>
       </div>
     </div>
   );

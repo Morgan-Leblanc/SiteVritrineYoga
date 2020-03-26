@@ -5,7 +5,7 @@ const YogaVertus = () => {
   return (
     <div className="multipleDesignContainer">
       {" "}
-      <h1>DU CORPS VERS L’ESPRIT</h1>
+      <h1 title=" les vertus du yoga">DU CORPS VERS L’ESPRIT</h1>
       <p>
         Sagesse millénaire issue de la Tradition de l’Inde, Art de vivre juste,
         chemin de « bien Être » et d’éveil, le yoga est une Voie royale pour
@@ -73,15 +73,12 @@ const YogaVertus = () => {
       </p>
       <p id="citationGlobal">
         « La pleine conscience est la conscience sans jugement de chaque
-        instant, que l’on cultive en prêtant attention. » <br></br>Jon Kabat Zinn
+        instant, que l’on cultive en prêtant attention. » <br></br>Jon Kabat
+        Zinn
       </p>
-
       <p>Plonger au plus profond de soi et y trouver un espace de quiétude.</p>
-      
       <p>Prendre le temps de la croissance intérieure. </p>
-
       <p>Se recentrer pour mieux se « décentrer »</p>
-
       <p id="citationGlobal">
         « Qui veut trouver des perles ne doit pas se contenter de regarder la
         mer, il doit plonger » <br></br>Rumi
@@ -90,14 +87,11 @@ const YogaVertus = () => {
         Goûter le tout dans la joie, le contentement et laisser fleurir la
         gratitude.
       </p>
-
       <p id="citationGlobal">
         « Faisons de chaque moment qu’il nous est permis de vivre un moment de
         joie » <br></br>Joseph Wresinski
       </p>
-
       <p>Puis laissez le yoga porter ses fruits dans notre vie</p>
-
       <p id="citationGlobal">
         « Il y a un continuum entre ce que l’on vit sur le tapis et ce que l’on
         vit dans le quotidien » <br></br>Isabelle Morin Larbey

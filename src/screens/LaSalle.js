@@ -12,7 +12,7 @@ const LaSalle = () => {
   return (
     <div className="placestuffContainer">
       <div className="salleContainer">
-        <h1 id="titlesalle">La Salle</h1>
+        <h1 title="la salle de yoga">La Salle</h1>
         <p>
           Le lieu de pratique est un espace privé situé à 12km au sud d’Etampes
           dans la Vallée de la Chalouette.
@@ -37,21 +37,23 @@ const LaSalle = () => {
             <img src={salle2} alt="imagesalle" />
           </div>
           <div>
-            <img src={salle3}  alt="imagesalle"/>
+            <img src={salle3} alt="imagesalle" />
           </div>
           <div>
-            <img src={salle4}  alt="imagesalle"/>
+            <img src={salle4} alt="imagesalle" />
           </div>
           <div>
             <img src={salle5} alt="imagesalle" />
           </div>
           <div>
-            <img src={salle6}  alt="imagesalle"/>
+            <img src={salle6} alt="imagesalle" />
           </div>
         </Carousel>
       </div>
       <div className="stuffContainer">
-        <h1 id="titlesalle">L’équipement</h1>
+        <h1 id="titlesalle" title="l'équipement de yoga">
+          L’équipement
+        </h1>
 
         <p>
           {" "}

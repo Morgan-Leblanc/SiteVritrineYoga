@@ -1,12 +1,12 @@
 import React from "react";
-import deGasquet from "../assets/pictures/gasquet.jpg"
-import "../screens/screensCss/YogGasVer.css"
+import deGasquet from "../assets/pictures/gasquet.jpg";
+import "../screens/screensCss/YogGasVer.css";
 
 const DeGasquet = () => {
   return (
     <div className="multipleDesignContainer">
       {" "}
-      <h1>La méthode DeGasquet</h1>
+      <h1 title="la méthode deGasquet">La méthode DeGasquet</h1>
       <p>
         Le Dr Bernadette de Gasquet, médecin et professeur de yoga associe dans
         son travail l’approche corporelle, les savoirs traditionnels et les
@@ -39,7 +39,7 @@ const DeGasquet = () => {
         plusieurs livres à succès dont « yoga sans dégâts » « périnée arrêtons
         le massacre », « abdominaux arrêtez le massacre » …
       </p>
-      <img src ={deGasquet} alt="DeGasquetCertificationYoga" />
+      <img src={deGasquet} alt="DeGasquetCertificationYoga" />
     </div>
   );
 };
