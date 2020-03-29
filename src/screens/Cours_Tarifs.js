@@ -9,11 +9,11 @@ const Cours_Tarifs = () => {
         <div className="horaires"></div>
         <p>
           <h2 title="cours de yoga le lundi">Lundi</h2> 15H30 - 17H00 (Pratique
-          douce) & 17h30 - 19h30
+          douce)<br></br> & <br></br>17h30 - 19h30
         </p>
         <p>
           <h2 title="cours de yoga le mardi">Mardi</h2>
-          9h30 - 11h30 & 18h30 - 20h30
+          9h30 - 11h30<br></br> & <br></br> 18h30 - 20h30
         </p>
         <p>
           <h2 title="cours de yoga le jeudi">Jeudi</h2>
@@ -21,23 +21,30 @@ const Cours_Tarifs = () => {
         </p>{" "}
         <br></br>
         <p>Il n’y a pas de cours durant les congés scolaires.</p>
+        <p>
+          {" "}
+          En cas d'absence à un cours, il vous est possible de le rattraper sur
+          un autre horaire et ce jusqu’à la fin de l’année en cours, dans la
+          limite des places disponibles.
+        </p>
       </div>
       <div className="tarifsContainer">
         <h1 title="tarifs yoga">Tarifs:</h1>
+        <br></br>
         <p>
           • La séance d’essai est offerte <br></br>(appeler au préalable pour
           connaître les créneaux disponibles){" "}
         </p>
         <p>
-          • Pour une séance hebdomadaire d’1H30 en pratique douce : <br></br>
+          • Pour une séance hebdomadaire d’1H30 en pratique douce <br></br>
           Forfait annuel : 345 € <br></br> Règlement possible en 3 chèques à
           l’inscription (soit 115 € par trimestre)
         </p>
         <p> </p>
         <p>
           {" "}
-          • Pour une séance hebdomadaire de 2H00 : <br></br>Forfait annuel : 435
-          € <br></br>Règlement possible en 3 chèques à l’inscription (soit 145 €
+          • Pour une séance hebdomadaire de 2H00<br></br>Forfait annuel : 435 €{" "}
+          <br></br>Règlement possible en 3 chèques à l’inscription (soit 145 €
           par trimestre) <br></br>{" "}
           <p>
             • Séance supplémentaire (dans le cadre d’un forfait annuel) : 10 €{" "}
@@ -45,7 +52,6 @@ const Cours_Tarifs = () => {
             <p>• Pour une séance hors forfait : 15€</p>
           </p>
         </p>
-        <p></p>
         <p>
           {" "}
           • Adhésion obligatoire à l’association : 15€ (à régler à
@@ -55,16 +61,12 @@ const Cours_Tarifs = () => {
           {" "}
           • Le tarif est forfaitaire pour environ 33 séances par année scolaire.
           <br></br>
-          (Soit 10,45€ la séance d’1H30 & 13,18€ la séance de 2 heures)
+          (Soit 10,45€ la séance d’1H30 & 13,18€ la séance de 2H00)
         </p>
         <p>
-          Les séances non effectuées ne sont pas remboursées.<br></br>
-          Néanmoins, en cas d'absence à un cours, il vous est possible de le
-          rattraper sur un autre horaire et ce jusqu’à la fin de l’année en
-          cours, dans la limite des places disponibles.
+          Il est possible de s’inscrire en cours d’année. <br></br> (réglement
+          au prorata des cours restants)
         </p>
-        <p></p>
-        <p>Il est possible de s’inscrire en cours d’année.</p>
       </div>
     </div>
   );

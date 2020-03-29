@@ -2,7 +2,7 @@
   width: 99.1vw;
   height: auto;
   display: flex;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;
   justify-content: space-between;
   font-family: "Baloo 2", sans-serif;
@@ -16,7 +16,7 @@
 }
 .horairesContainer {
   height: auto;
-  width: 45vw;
+  width: 49vw;
   margin: 2%;
   background-color: whitesmoke;
   opacity: 0.6;
@@ -29,7 +29,7 @@
 }
 .tarifsContainer {
   height: auto;
-  width: 45vw;
+  width: 60vw;
   background-color: whitesmoke;
   opacity: 0.6;
   margin: 2%;
@@ -42,7 +42,7 @@
   border: 3px solid grey;
 }
 .horaires {
-  margin-top: 25%;
+  margin-top: 15%;
 }
 
 @media screen and (max-width: 768px) {
