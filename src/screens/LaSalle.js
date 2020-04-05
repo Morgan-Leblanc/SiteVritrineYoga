@@ -19,7 +19,7 @@ const LaSalle = () => {
           <p>
             {" "}
             Dans un ancien moulin, au calme et entouré de verdure, le cadre est
-            privilégié et insite à la quiétude et à l’intériorisation.
+            privilégié et incite à la quiétude et à l’intériorisation.
           </p>{" "}
           <p>
             La salle est lumineuse, accueillante et bien chauffée.
