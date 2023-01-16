@@ -28,14 +28,14 @@ const Cours_Tarifs = () => {
         </p>
         <p>
           • Pour une séance hebdomadaire d’1H30 en pratique douce : <br></br>
-          Forfait annuel : 345 € <br></br> Règlement possible en 3 chèques à
-          l’inscription (soit 115 € par trimestre)
+          Forfait annuel : 360 € <br></br> Règlement possible en 3 chèques à
+          l’inscription (soit 120 € par trimestre)
         </p>
         <p> </p>
         <p>
           {" "}
-          • Pour une séance hebdomadaire de 2H00 : <br></br>Forfait annuel : 435
-          € <br></br>Règlement possible en 3 chèques à l’inscription (soit 145 €
+          • Pour une séance hebdomadaire de 2H00 : <br></br>Forfait annuel : 450
+          € <br></br>Règlement possible en 3 chèques à l’inscription (soit 150 €
           par trimestre) <br></br>{" "}
           <p>
             • Séance supplémentaire (dans le cadre d’un forfait annuel) : 10 €{" "}
@@ -48,12 +48,6 @@ const Cours_Tarifs = () => {
           {" "}
           • Adhésion obligatoire à l’association : 15€ (à régler à
           l’inscription)
-        </p>
-        <p>
-          {" "}
-          • Le tarif est forfaitaire pour environ 33 séances par année scolaire.
-          <br></br>
-          (Soit 10,45€ la séance d’1H30 & 13,18€ la séance de 2 heures)
         </p>
         <p>
           Les séances non effectuées ne sont pas remboursées.<br></br>
