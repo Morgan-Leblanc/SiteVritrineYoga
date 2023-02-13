@@ -21,7 +21,7 @@
   width: 45vw;
   margin: 2%;
   background-color: whitesmoke;
-  opacity: 60%;
+  opacity: 0.6;
   -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
@@ -33,7 +33,7 @@
   height: auto;
   width: 45vw;
   background-color: whitesmoke;
-  opacity: 60%;
+  opacity: 0.6;
   margin: 2%;
   -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);

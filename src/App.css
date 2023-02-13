@@ -8,7 +8,7 @@
 .App h1 {
   font-family:"Amatic SC", sans-serif;
   font-size: 60px;
-  opacity: 60%;
+  opacity: 0.6;
 }
 #citationGlobal{
   color: #467f8c;
