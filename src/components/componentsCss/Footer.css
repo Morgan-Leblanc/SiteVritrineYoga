@@ -19,22 +19,19 @@
   .footerContainer {
     font-size: 20px;
   }
+  #lotus {
+    height: 6vh;
+    width: 12vw;
+  }
 }
 @media screen and (max-width: 375px) {
   .footerContainer {
     display: flex;
     font-size: 14px;
+    margin-top: 40%;
   }
-}
-@media screen and (max-width: 375px) {
   #lotus {
     height: 7vh;
     width: 10vw;
-  }
-}
-@media screen and (max-width: 768px) {
-  #lotus {
-    height: 6vh;
-    width: 12vw;
   }
 }

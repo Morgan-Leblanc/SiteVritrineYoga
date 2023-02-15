@@ -15,7 +15,7 @@ const Navbar = () => {
         La Salle
       </Link>
       <Link className="link" to="/parcours">
-        Parcours
+        L'enseignement
       </Link>
       <Link className="link" to="/contact">
         Contact

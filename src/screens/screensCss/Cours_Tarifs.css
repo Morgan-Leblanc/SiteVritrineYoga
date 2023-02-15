@@ -1,24 +1,22 @@
-@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Just+Another+Hand|Open+Sans+Condensed:300");
 .coursTarifsContainer {
   width: 99.1vw;
-  height: 130vh;
+  height: auto;
   display: flex;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;
   justify-content: space-between;
-  font-family: "Lato", sans-serif;
+  font-family: "Baloo 2", sans-serif;
   background-image: url("../../assets/pictures/goute_tarif.png");
   -webkit-box-shadow: 0px 11px 5px 0px rgba(143, 140, 143, 1);
   -moz-box-shadow: 0px 11px 5px 0px rgba(143, 140, 143, 1);
   box-shadow: 0px 11px 5px 0px rgba(143, 140, 143, 1);
   background-size: cover;
   background-position: center;
-  margin-bottom :2%;
+  margin-bottom: 2%;
 }
 .horairesContainer {
   height: auto;
-  width: 45vw;
+  width: 49vw;
   margin: 2%;
   background-color: whitesmoke;
   opacity: 0.6;
@@ -27,11 +25,11 @@
   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
   color: black;
   border-radius: 20px;
-  border: 3px solid  grey;
+  border: 3px solid grey;
 }
 .tarifsContainer {
   height: auto;
-  width: 45vw;
+  width: 60vw;
   background-color: whitesmoke;
   opacity: 0.6;
   margin: 2%;
@@ -43,42 +41,34 @@
   border-radius: 20px;
   border: 3px solid grey;
 }
-.horaires{
-  margin-top: 25%;
+.horaires {
+  margin-top: 15%;
 }
 
 @media screen and (max-width: 768px) {
   .tarifsContainer {
-    font-size: 25px;
+    font-size: 18px;
+    height: 80%;
+  }
+  .horairesContainer {
+    font-size: 18px;
+    height: 80%;
   }
 }
 @media screen and (max-width: 375px) {
   .tarifsContainer {
-    font-size: 15px;
+    font-size: 12px;
     width: 90vw;
     margin-left: 3%;
     height: auto;
-    margin-bottom: 20%;;
+    margin-bottom: 20%;
   }
-}
-
-@media screen and (max-width: 768px) {
   .horairesContainer {
-    font-size: 25px;
-  }
-}
-@media screen and (max-width: 375px) {
-  .horairesContainer {
-    font-size: 15px;
+    font-size: 12px;
     width: 90vw;
-    margin-left: 3%
+    margin-left: 3%;
   }
-}
-
-@media screen and (max-width: 375px) {
   .coursTarifsContainer {
     flex-direction: column;
-    height: 140vh;
   }
 }
-

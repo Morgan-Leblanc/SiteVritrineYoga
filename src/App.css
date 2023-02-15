@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Amatic+SC");
+@import url("https://fonts.googleapis.com/css?family=Baloo+2|Roboto&display=swap");
 
 .App {
   background: linear-gradient(white, #b3aca3, #d0bdaf, white);
@@ -10,7 +11,7 @@
   font-size: 60px;
   opacity: 0.6;
 }
-#citationGlobal{
+#citationGlobal {
   color: #467f8c;
   font-style: italic;
 }

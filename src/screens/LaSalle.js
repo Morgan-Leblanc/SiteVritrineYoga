@@ -12,14 +12,14 @@ const LaSalle = () => {
   return (
     <div className="placestuffContainer">
       <div className="salleContainer">
-        <h1 id="titlesalle">La Salle</h1>
+        <h1 title="la salle de yoga">La Salle</h1>
         <p>
           Le lieu de pratique est un espace privé situé à 12km au sud d’Etampes
           dans la Vallée de la Chalouette.
           <p>
             {" "}
             Dans un ancien moulin, au calme et entouré de verdure, le cadre est
-            privilégié et insite à la quiétude et à l’intériorisation.
+            privilégié et incite à la quiétude et à l’intériorisation.
           </p>{" "}
           <p>
             La salle est lumineuse, accueillante et bien chauffée.
@@ -37,27 +37,29 @@ const LaSalle = () => {
             <img src={salle2} alt="imagesalle" />
           </div>
           <div>
-            <img src={salle3}  alt="imagesalle"/>
+            <img src={salle3} alt="imagesalle" />
           </div>
           <div>
-            <img src={salle4}  alt="imagesalle"/>
+            <img src={salle4} alt="imagesalle" />
           </div>
           <div>
             <img src={salle5} alt="imagesalle" />
           </div>
           <div>
-            <img src={salle6}  alt="imagesalle"/>
+            <img src={salle6} alt="imagesalle" />
           </div>
         </Carousel>
       </div>
       <div className="stuffContainer">
-        <h1 id="titlesalle">L’équipement</h1>
+        <h1 id="titlesalle" title="l'équipement de yoga">
+          L’équipement
+        </h1>
 
         <p>
           {" "}
           <p>
             Du matériel est à disposition sur place afin de pouvoir aménager vos
-            postures (sangles, briques en liège, zafus, galettes de genoux à
+            postures <br></br>(sangles, briques en liège, zafus, galettes de genoux à
             mémoire de forme…){" "}
           </p>
           <p>
