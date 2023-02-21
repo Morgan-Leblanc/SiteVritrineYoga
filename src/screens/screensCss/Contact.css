@@ -42,11 +42,11 @@
 }
 #emailLink {
   text-decoration: none;
-  color: rgb(211, 128, 109);
+  color: #c44c35;
   font-family: "Baloo 2", sans-serif;
 }
 #phonecall {
-  color: rgb(54, 52, 52);
+  color: #080808;
 }
 
 #findUs {

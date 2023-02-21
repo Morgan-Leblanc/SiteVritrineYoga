@@ -26,16 +26,14 @@ const YogaVertus = () => {
       <h1 title=" les vertus du yoga"> DU CORPS VERS L’ESPRIT, LES BIENFAITS DE LA PRATIQUE DU YOGA :</h1>
       <p>
         Redonner de la longueur et de la tonicité à ses muscles, renforcer ses
-        articulations et retrouver une nouvelle amplitude articulaire,<br></br> de
-        l’aisance et de la fluidité dans les gestes du quotidien.{" "}
+        articulations et goûter une amplitude articulaire oubliée.
       </p>
       <p>
         Dénouer les tensions musculaires, stimuler les différents organes et
         toutes les fonctions du corps, équilibrer le système nerveux…
       </p>
       <p>
-        Goûter une liberté de mouvement en déliant le corps avec douceur,
-        lenteur, précision et progression.
+        Retrouver une liberté de mouvement, aisance et fluidité en déliant le corps avec douceur et précision, de manière progressive  et respectueuse du corps de chacun.
       </p>
       <p>
         Mobiliser et habiter en conscience ce corps que l’on est, dans le

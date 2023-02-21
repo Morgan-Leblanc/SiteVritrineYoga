@@ -21,12 +21,7 @@ const Cours_Tarifs = () => {
         </p>{" "}
         <br></br>
         <p>Il n’y a pas de cours durant les congés scolaires.</p>
-        <p>
-          {" "}
-          En cas d'absence à un cours, il vous est possible de le rattraper sur
-          un autre horaire et ce jusqu’à la fin de l’année en cours, dans la
-          limite des places disponibles.
-        </p>
+        <p>Inscription possible en cours d'année en fonction des places disponibles</p>
       </div>
       <div className="tarifsContainer">
         <h1 title="tarifs yoga">Tarifs:</h1>
@@ -50,6 +45,7 @@ const Cours_Tarifs = () => {
             • Séance supplémentaire (dans le cadre d’un forfait annuel) : 10 €{" "}
             <br></br>
             <p>• Pour une séance hors forfait : 15€</p>
+            <p>• Adhésion annuelle obligatoire : 15€</p>
           </p>
         </p>
         <p>

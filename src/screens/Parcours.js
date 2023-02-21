@@ -57,7 +57,7 @@ const Parcours = () => {
           <h1>Parcours de l'enseignante</h1>
           <p>
             <p>
-              Nathalie, notre enseignante, découvre le yoga en 1986 à l’âge de
+              Nathalie LEBLANC découvre le yoga en 1986 à l’âge de
               21ans.
             </p>
             <p>
@@ -65,7 +65,7 @@ const Parcours = () => {
               de 3 années de formation au sein de l’Ecole Internationale du Yoga
               Traditionnel (EIDYT Paris) fondée par Shri Mahesh Ghatradyal,
               maître indien , également fondateur en 1968 de la<br></br>{" "}
-              Fédération Française de Hatha Yoga.
+              Fédération Française de Hatha Yoga (FFHY)
             </p>
 
             <p>

@@ -6,7 +6,7 @@ const Yoga = () => {
     <div className="multipleDesignContainer">
       <h1 title= "le hatha-yoga">Le Hatha-Yoga</h1>
       <p>
-        Bien qu’issu de la Tradition du Hatha Yoga, le yoga enseigné au sein de
+        Bien qu’issu de la tradition du Hatha Yoga, le yoga enseigné au sein de
         notre association est adapté aux occidentaux que nous sommes et revisité
         par la Méthode DE GASQUET®
       </p>
@@ -25,7 +25,7 @@ const Yoga = () => {
         les diverses morphologies, pathologies,<br></br> fragilités et niveaux de
         souplesse.{" "}
       </p>
-      <p>Une séance de pratique douce est proposée le lundi après midi.<br></br>
+      <p>Une séance de pratique douce est proposée le lundi après-midi.<br></br>
         La durée en est réduite (1H30 au lieu de 2H00), les postures sont moins
         exigeantes et tenues moins longtemps.{" "}
       </p>

@@ -64,9 +64,8 @@ const LaSalle = () => {
           </p>
           <p>
             Pour une question d’hygiène, il est demandé d’apporter son propre
-            tapis de pratique.
+            tapis de pratique (tapis antidérapant si possible).
           </p>
-          <p>Quelques tapis restent à disposition en cas d’oubli ponctuel.</p>
           <p>
             {" "}
             Prévoir une tenue souple et confortable et un plaid pour la
